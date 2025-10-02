@@ -1,0 +1,126 @@
+# Applied Networking Research Prize 2026
+
+https://www.irtf.org/anrp/
+
+**Submit nominations for the 2026 award period of the Applied
+Networking Research Prize until November 17, 2025**
+
+(Please share this announcement with your colleagues)
+
+The Applied Networking Research Prize (ANRP) is awarded to recognise
+the best recent results in applied networking, interesting new
+research ideas of potential relevance to the Internet standards
+community, and upcoming people that are likely to have an impact on
+Internet standards and technologies, with a particular focus on cases
+where these people or ideas would not otherwise get much exposure or
+be able to participate in the discussion.
+
+We encourage nominations of researchers with relevant research
+results, interesting ideas, and new perspectives. The award will offer
+them the opportunity to present and discuss their work with the
+engineers, network operators, policy makers, and scientists that
+participate in the Internet Engineering Task Force (IETF) and its
+research arm, the Internet Research Task Force (IRTF). Both self- and
+third-party nominations for this prize are encouraged.
+
+The Applied Networking Research Prize (ANRP) consists of:
+
+    - a cash prize of $1000 (USD)
+
+    - an invited talk at the IRTF Open Meeting
+
+    - a travel grant to attend a week-long IETF meeting (airfare,
+      hotel, registration, stipend)
+
+    - recognition at the IETF plenary an invitation to related social
+      activities
+
+In addition, prize winners may be offered additional travel grants to
+attend future IETF and/or IRTF meetings. Such grants are made at the
+discretion of the award committee, based on community feedback,
+engagement with the community, and potential future impact.
+
+Applied Networking Research Prize awards are made once per calendar
+year. Each year, several winners will be chosen and invited to present
+their work at one of the three IETF meetings during the following
+year.
+
+## How to Nominate
+
+Nominations are for a single author of an original, peer-reviewed,
+journal, conference or workshop paper that was recently published or
+accepted for publication. The nominee must be one of the main authors
+of the nominated paper. Both self-nominations (nominating one's own
+work) and third-party nominations (nominating someone else, with their
+permission) are encouraged.
+
+The nominated paper should provide a scientific foundation for
+possible future engineering work in the IETF, or research and
+experimentation in the IRTF. It should analyse the behaviour of
+Internet protocols in real-world deployments or realistic testbeds,
+make an important contribution to understanding the scalability,
+performance, reliability, security or capabilities of the Internet, or
+otherwise be of relevance to ongoing or future IETF or IRTF
+activities.
+
+Nominations must state how the nominated paper relates to these goals.
+They should describe how involving the nominee in the IETF and IRTF
+process, and bringing them to an IETF meeting, would help to foster
+the transition of the results and/or ideas into new IETF engineering
+work or IRTF experimentation, or otherwise seed new activities that
+will have an impact on the real-world Internet.
+
+The goal of the ANRP is to foster the transitioning of research
+results into real-world benefits for the Internet. Therefore,
+applicants must indicate that they (or the nominee, in case of
+third-party nominations) are available to attend at least one of the
+IETF meetings in the following year.
+
+Nominations are submitted via https://www.irtf.org/anrp/ and must
+include:
+
+    - the name and email address of the nominee;
+
+    - a bibliographic reference to the published (or accepted)
+      nominated paper;
+
+    - a PDF copy of the nominated paper;
+
+    - a statement that describes how the nominated paper fulfils the
+      goals of the award and how the nominee would engage with the
+      IETF and/or IRTF community;
+
+    - a statement of the nominee's availability to present their work
+      at the IETF meetings in during 2025;
+
+    - a statement that the nominee accepts that the IRTF Intellectual
+      Property Rights disclosure rules will apply to their award talk
+      at the IRTF open meeting;
+
+    - a brief biography or CV for the nominee; and
+
+    - optionally, any other supporting information (link to nominee’s
+      web site, etc.)
+
+All nominees will be notified by email about the decision regarding
+their nomination.
+
+Nominations for the Applied Networking Research Prize (ANRP) are not
+considered to be contributions to the IETF or IRTF. However, the
+invited talks at the IRTF Open Meeting are considered to be
+contributions and the IRTF Intellectual Property Rights disclosure
+rules apply.
+
+## Important Dates
+
+   - Nominations close: November 17, 2025
+
+   - Notifications: January 5, 2026
+
+## Sponsors
+
+The Applied Networking Research Prize is supported by the Internet
+Society in coordination with the Internet Research Task Force (IRTF).
+Additional corporate sponsorship is kindly provided by Comcast and NBC
+Universal. If your organisation would like to support the ANRP, please
+contact anrp@irtf.org.
